@@ -1,4 +1,4 @@
-A [custom Koa](http://koajs.com) generator for [Yeoman](http://yeoman.io).
+A [koa + socket.io + redis](http://koajs.com) generator for [Yeoman](http://yeoman.io).
 
     .
     ├── bin
@@ -39,7 +39,7 @@ $ npm install -g yo
 ```
 
 ```
-$ npm install -g generator-koa-serve
+$ npm install -g generator-koa-socketio
 ```
 
 Make a new directory and ```cd``` into it:
@@ -51,7 +51,7 @@ $ mkdir new-project && cd $_
 Finally, initiate the generator:
 
 ```
-$ yo koa-serve
+$ yo koa-socketio
 ```
 
 ## Start
