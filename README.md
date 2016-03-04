@@ -72,5 +72,6 @@ $ npm test
 See [**Koa Examples**](https://github.com/koajs/examples/)
 
 ## License
+[Demo](http://game.feblogs.com:3000/)
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License) @ addison
